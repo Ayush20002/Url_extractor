@@ -1,8 +1,8 @@
-var server = "sql12.freemysqlhosting.net";
-var port = 3306;
-var db = "sql12659647";
-var user = "sql12659647";
-var pwd = "nIdjnAWUds";
+var server = "";
+var port = ;
+var db = "";
+var user = "";
+var pwd = "";
 
 function connectToMySQL() {
   var url = "jdbc:mysql://" + server + ":" + port + "/" + db;
